@@ -1,6 +1,6 @@
 ---
 name: gaokao-volunteer-research
-version: 0.3.0
+version: 0.3.1
 description: >
   高考志愿研究助手。Use when the user asks about 高考志愿、大学志愿、志愿填报、选大学、选专业、冲稳保、院校专业组、位次择校、招生章程核验、一分一段、分数换位次、本科线、专科线、批次线、高考真题、院校专业信息、招生政策资料整理, or wants evidence-backed college application research for Chinese Gaokao. Builds official-source candidate matrices, data checks, and family decision briefs; it does not submit official forms or make outcome promises.
 metadata:
@@ -98,6 +98,7 @@ raw/
 
 模板：
 
+- `README.md`：中文使用说明。
 - `CHANGELOG.md`：技能变更记录。
 - `templates/candidate-matrix.md`：候选院校/专业组矩阵。
 - `templates/data-check.md`：一分一段、位次、批次线、本科线/专科线和口径核验表。

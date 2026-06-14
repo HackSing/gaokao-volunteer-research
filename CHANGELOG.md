@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.1 - 2026-06-14
+
+### Added
+
+- Added a Chinese `README.md` covering positioning, boundaries, directory structure, common prompts, CLI tooling, recommended package outputs, and validation commands.
+- Linked `README.md` from `SKILL.md`.
+
 ## 0.3.0 - 2026-06-14
 
 ### Added
